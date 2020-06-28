@@ -1,4 +1,4 @@
-### [THX](https://thxing.github.io)
+### 看我的博客点这里[THX](https://thxing.github.io)
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
