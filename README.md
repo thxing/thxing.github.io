@@ -1,5 +1,7 @@
 ### 看我的博客点这里[THX](https://thxing.github.io)
 
+
+以下内容来自[qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
 [![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
